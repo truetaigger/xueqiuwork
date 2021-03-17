@@ -80,10 +80,22 @@
 
 
 
+- [√]
+验证输入的股票id是否正确：
+![image](https://user-images.githubusercontent.com/51170034/111495842-b78a8300-877a-11eb-92d5-428deb168472.png)
 
-- [ x] 
-3.16
+符合查询资格才能开始爬取数据。
+
+
+
+- [ x] 列表 展示 3.16
+3.18 [1/2]
 list：
+![image](https://user-images.githubusercontent.com/51170034/111497827-63809e00-877c-11eb-8684-2e080b1f5fd3.png)
+
+
+
+添加点击事件，询问是否加入自定义标签。
 
 
 
